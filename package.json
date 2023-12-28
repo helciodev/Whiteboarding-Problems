@@ -1,0 +1,28 @@
+{
+  "name": "whiteboarding-problems",
+  "version": "1.0.0",
+  "description": "whiteboarding problems practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helciodev/Whiteboarding-Problems.git"
+  },
+  "keywords": [
+    "algorithms",
+    "and",
+    "ds"
+  ],
+  "author": "helcio andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helciodev/Whiteboarding-Problems/issues"
+  },
+  "homepage": "https://github.com/helciodev/Whiteboarding-Problems#readme",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}
