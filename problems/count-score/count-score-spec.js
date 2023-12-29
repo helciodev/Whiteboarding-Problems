@@ -2,7 +2,7 @@ import countScore from "./count-score.js";
 import { expect } from "chai";
 
 describe("countScore(people) function", () => {
-  it("should take an array of scores objects people as it input anr returnan object that has key-value pairs where each name is a key and the value is their total score", () => {
+  it("should take an array of scores objects people as it input and return an object that has key-value pairs where each name is a key and the value is their total score", () => {
     const ppl = [
       { name: "Anthony", score: 10 },
       { name: "Fred", score: 10 },
