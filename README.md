@@ -192,7 +192,9 @@ Examples:
 firstNPrimes(0); // => []
 firstNPrimes(1); // => [2]
 firstNPrimes(4); // => [2, 3, 5, 7]
-peakFinder
+
+## peakFinder
+
 Write a function peakFinder(array) that takes in an array of numbers. It should return an array containing the indices of all the peaks. A peak is an element that is greater than both of its neighbors. If it is the first or last element, it is a peak if it is greater than its one neighbor. Assume the array has a length of at least 2.
 
 Examples:
