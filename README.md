@@ -420,7 +420,9 @@ hipsterfy("proper tonic panther"); // => "propr tonc panthr"
 hipsterfy("towel flicker banana"); // => "towl flickr banan"
 hipsterfy("runner anaconda"); // => "runnr anacond"
 hipsterfy("turtle cheeseburger fries"); // => "turtl cheeseburgr fris"
-objectToString
+
+## objectToString
+
 Write a function objectToString(count) that takes in a char count object and returns a string representing the counts of each character.
 
 Examples:
@@ -436,7 +438,9 @@ Examples:
 
 shortestWord('app academy is cool') // => 'is'
 shortestWord('programming bootcamp') // => 'bootcamp'
-greatestCommonFactor
+
+## greatestCommonFactor
+
 Write a function greatestCommonFactor(num1, num2) that returns the largest number that is divides both num1 and num2.
 
 Examples:
